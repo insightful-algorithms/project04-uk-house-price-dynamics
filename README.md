@@ -177,10 +177,15 @@ running the notebooks. Run notebooks in order: 01, 02, 03.
 | 1     | 2   | P06     | UK Labour Market and Wage Inequality | Planned      |
 
 ---
-
 ## Author
 
-**Ose Omokhua**  
-MSc Data Science | BSc Physics  
-London, UK  
-[github.com/insightful-algorithms](https://github.com/insightful-algorithms)
+**Ose Omokhua**
+MSc Data Science · BSc Physics 
+London, UK
+
+Open to Data Engineer & Data Scientist roles (UK and Remote)
+
+[![GitHub](https://img.shields.io/badge/GitHub-insightful--algorithms-181717?style=flat&logo=github&logoColor=white)](https://github.com/insightful-algorithms)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/omokhua-ose)
+---
+
